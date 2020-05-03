@@ -23,6 +23,7 @@ main = async () => {
   }
 }
 
+// Establish connection to database
 connect = async () => {
   connection = await mysql.createConnection({
     host: "localhost",
