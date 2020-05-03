@@ -32,7 +32,7 @@ connect = async () => {
     password: PASSWORD,
     database: "employee_tracker_db"
   })
-  console.log(`Connected as id: ${connection.threadId}`);
+  console.log(`Connected as id: ${connection.threadId}.`);
 }
 
 // Run program
