@@ -1,11 +1,12 @@
 // Import dependencies
 const mysql = require("mysql2/promise");
-const mainMenu = require("./lib/main-menu.js");
+const mainMenu = require("./lib/main-menu");
 
+// Define and initialize variables
 const PASSWORD = "example";
-
 let connection;
 
+// Define main function
 main = async () => {
   // Greet user
   console.log("Welcome to EmployeeTracker.");
