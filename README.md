@@ -1,5 +1,9 @@
 # Employee Tracker
 
+![GitHub followers](https://img.shields.io/github/followers/mjsouthcott?label=Follow&style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/mjsouthcott/12-employee-tracker)
+![GitHub top language](https://img.shields.io/github/languages/top/mjsouthcott/12-employee-tracker)
+
 ## Description
 
 This is a command line application that allows users to interact with an employee database and view, add, update and delete employees, roles and departments. This application uses SQL, Javascript, Node.js and various npm packages.
@@ -34,8 +38,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Contributing
 
 Feel free to email me if you'd like to contribute.
-
-## Badges
-
-![GitHub followers](https://img.shields.io/github/followers/mjsouthcott?label=Follow&style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/mjsouthcott/12-employee-tracker)
