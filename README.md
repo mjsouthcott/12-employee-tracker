@@ -8,6 +8,14 @@
 
 This is a command line application that allows users to interact with an employee database and view, add, update and delete employees, roles and departments. This application uses SQL, Javascript, Node.js and various npm packages.
 
+## User Storey
+
+```
+AS A business owner
+I WANT to be able to view and manage the departments, roles and employees in my company
+SO THAT I can organize and plan my business
+```
+
 ## Table of Contents
 
 * [Installation](https://github.com/mjsouthcott/12-employee-tracker#Installation)
