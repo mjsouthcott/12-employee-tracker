@@ -38,3 +38,4 @@ Feel free to email me if you'd like to contribute.
 ## Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/mjsouthcott?label=Follow&style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/mjsouthcott/12-employee-tracker)
