@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a command line application that allows users to interact with an employee database and view, add, update and delete employees, roles and departments. This application uses SQL, Javascript, Node.js and various npm packages.
+This is a command line application that acts as a Content Management System for an employee database. It allows users to view, add, update and delete employees, roles and departments. This application uses SQL, Javascript, Node.js and various npm packages.
 
 ## User Story
 
