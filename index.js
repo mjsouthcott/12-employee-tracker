@@ -1,5 +1,6 @@
 // Import dependencies
 const mysql = require("mysql2/promise");
+const logo = require("asciiart-logo");
 const mainMenu = require("./lib/main-menu");
 
 // Define and initialize variables
@@ -8,8 +9,22 @@ let connection;
 
 // Define main function
 main = async () => {
-  // Greet user
-  console.log("Welcome to EmployeeTracker.");
+  // Display logo
+  console.log(
+    logo({
+        name: 'Employee Tracker',
+        font: "Lean",
+        lineChars: 10,
+        padding: 2,
+        margin: 3,
+        borderColor: 'white',
+        logoColor: 'bold-white',
+        textColor: 'white',
+    })
+    .emptyLine()
+    .right('version 1.0.0')
+    .render()
+);
   
   let shouldContinue = true;
   try {

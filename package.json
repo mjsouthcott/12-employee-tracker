@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/mjsouthcott/12-employee-tracker#readme",
   "dependencies": {
+    "asciiart-logo": "^0.2.6",
     "console.table": "^0.10.0",
     "inquirer": "^7.1.0",
-    "mysql2": "^2.1.0"
+    "mysql2": "^2.1.0",
+    "to-case": "^2.0.0"
   }
 }
